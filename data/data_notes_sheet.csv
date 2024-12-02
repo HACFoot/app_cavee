@@ -1,0 +1,813 @@
+"date","category","opponent","player","minutes","note"
+2024-08-31,"U17","Paris FC","HAMOUDA Adel",90,7.5
+2024-08-31,"U17","Paris FC","BEN CHEIKH Aymen",90,7
+2024-08-31,"U17","Paris FC","MUREL Solan",90,6.5
+2024-08-31,"U17","Paris FC","SOUMAH Mohamed",90,7
+2024-08-31,"U17","Paris FC","MONKOLOT Yanis",90,6.5
+2024-08-31,"U17","Paris FC","DEZAILLES Arsène",65,6.5
+2024-08-31,"U17","Paris FC","AAMCHOUNE Zakaria",79,7.5
+2024-08-31,"U17","Paris FC","ROUSSEAU Thomas",90,8.5
+2024-08-31,"U17","Paris FC","SOH Yanis",65,7
+2024-08-31,"U17","Paris FC","REUT Nicolas",90,8
+2024-08-31,"U17","Paris FC","MALU KELO Yohan",90,6.5
+2024-08-31,"U17","Paris FC","BETEHE Aaron",30,6.5
+2024-08-31,"U17","Paris FC","BYLANSA Désiré",11,4
+2024-08-31,"U17","Paris FC","COUTURIER Enzo",25,5.5
+2024-08-31,"U17","Paris FC","GONSAN Nolan",25,5.5
+2024-08-25,"U17","Caen","HAMOUDA Adel",90,7
+2024-08-25,"U17","Caen","BETEHE Aaron",90,5
+2024-08-25,"U17","Caen","SOUMAHORO Akim",62,5.5
+2024-08-25,"U17","Caen","SOUMAH Mohamed",90,5.5
+2024-08-25,"U17","Caen","MONKOLOT Yanis",90,6
+2024-08-25,"U17","Caen","CAMARA Aboulaye",58,4.5
+2024-08-25,"U17","Caen","AAMCHOUNE Zakaria",68,5.5
+2024-08-25,"U17","Caen","DEZAILLES Arsène",90,5.5
+2024-08-25,"U17","Caen","SOH Yanis",62,4.5
+2024-08-25,"U17","Caen","REUT Nicolas",90,6.5
+2024-08-25,"U17","Caen","MALU KELO Yohan",82,5
+2024-08-25,"U17","Caen","ACHOUI Djibril",28,5.5
+2024-08-25,"U17","Caen","BEN CHEIKH Aymen",22,4
+2024-08-25,"U17","Caen","ESSON Bryan",28,5
+2024-08-25,"U17","Caen","DEMBELE Malyk",6,NA
+2024-09-08,"U17","Laval","HAMOUDA Adel",90,8.5
+2024-09-08,"U17","Laval","BEN CHEIKH Aymen",90,5
+2024-09-08,"U17","Laval","SOUMAHORO Akim",75,5
+2024-09-08,"U17","Laval","SOUMAH Mohamed",75,5
+2024-09-08,"U17","Laval","MONKOLOT Yanis",90,7.5
+2024-09-08,"U17","Laval","COUTURIER Enzo",90,5.5
+2024-09-08,"U17","Laval","AINANI Sufyan",84,6
+2024-09-08,"U17","Laval","DEZAILLES Arsène",70,5
+2024-09-08,"U17","Laval","SOH Yanis",90,7
+2024-09-08,"U17","Laval","REUT Nicolas",90,6
+2024-09-08,"U17","Laval","MALU KELO Yohan",75,4.5
+2024-09-08,"U17","Laval","BETEHE Aaron",15,5.5
+2024-09-08,"U17","Laval","ESSON Bryan",20,5.5
+2024-09-08,"U17","Laval","GONSAN Nolan",15,5.5
+2024-09-08,"U17","Laval","MENDY Dahiss",6,NA
+2024-09-15,"U17","QRM","HAMOUDA Adel",90,6.5
+2024-09-15,"U17","QRM","BEN CHEIKH Aymen",90,5.5
+2024-09-15,"U17","QRM","MUREL Solan",81,4
+2024-09-15,"U17","QRM","BETEHE Aaron",90,6
+2024-09-15,"U17","QRM","MONKOLOT Yanis",90,6.5
+2024-09-15,"U17","QRM","COUTURIER Enzo",90,6
+2024-09-15,"U17","QRM","AINANI Sufyan",64,3.5
+2024-09-15,"U17","QRM","ROUSSEAU Thomas",90,4.5
+2024-09-15,"U17","QRM","SOH Yanis",75,5.5
+2024-09-15,"U17","QRM","REUT Nicolas",64,4
+2024-09-15,"U17","QRM","MALU KELO Yohan",90,5.5
+2024-09-15,"U17","QRM","BYLANSA Désiré",26,4
+2024-09-15,"U17","QRM","GONSAN Nolan",26,6
+2024-09-15,"U17","QRM","MEBROUK Ayman",9,NA
+2024-09-15,"U17","QRM","MENDY Dahiss",15,5.5
+2024-09-22,"U17","Béthune","HAMOUDA Adel",90,6.5
+2024-09-22,"U17","Béthune","BEN CHEIKH Aymen",90,5.5
+2024-09-22,"U17","Béthune","MUREL Solan",65,3.5
+2024-09-22,"U17","Béthune","BETEHE Aaron",90,6.5
+2024-09-22,"U17","Béthune","MONKOLOT Yanis",90,7.5
+2024-09-22,"U17","Béthune","COUTURIER Enzo",65,6.5
+2024-09-22,"U17","Béthune","GONSAN Nolan",55,4
+2024-09-22,"U17","Béthune","ROUSSEAU Thomas",90,5
+2024-09-22,"U17","Béthune","SOH Yanis",90,5
+2024-09-22,"U17","Béthune","REUT Nicolas",73,5
+2024-09-22,"U17","Béthune","MALU KELO Yohan",90,5
+2024-09-22,"U17","Béthune","AINANI Sufyan",35,5
+2024-09-22,"U17","Béthune","DEZAILLES Arsène",25,6.5
+2024-09-22,"U17","Béthune","MEBROUK Ayman",25,6
+2024-09-22,"U17","Béthune","MENDY Dahiss",17,5.5
+2024-09-29,"U17","Versailles","HAMOUDA Adel",90,6.5
+2024-09-29,"U17","Versailles","BEN CHEIKH Aymen",90,4.5
+2024-09-29,"U17","Versailles","MUREL Solan",80,4.5
+2024-09-29,"U17","Versailles","BETEHE Aaron",90,5
+2024-09-29,"U17","Versailles","MEBROUK Ayman",90,5
+2024-09-29,"U17","Versailles","COUTURIER Enzo",90,6.5
+2024-09-29,"U17","Versailles","MENDY Dahiss",65,3.5
+2024-09-29,"U17","Versailles","DEZAILLES Arsène",58,4
+2024-09-29,"U17","Versailles","SOH Yanis",80,4
+2024-09-29,"U17","Versailles","REUT Nicolas",90,4
+2024-09-29,"U17","Versailles","MALU KELO Yohan",90,4
+2024-09-29,"U17","Versailles","BYLANSA Désiré",32,3.5
+2024-09-29,"U17","Versailles","GONSAN Nolan",25,5.5
+2024-09-29,"U17","Versailles","MONKOLOT Yanis",10,5
+2024-09-29,"U17","Versailles","WADE Bocar",10,5
+2024-10-06,"U17","Rouen","LEGHAT Yanis",90,6
+2024-10-06,"U17","Rouen","BEN CHEIKH Aymen",90,5.5
+2024-10-06,"U17","Rouen","MUREL Solan",90,3.5
+2024-10-06,"U17","Rouen","SOUMAH Mohamed",90,5
+2024-10-06,"U17","Rouen","MONKOLOT Yanis",90,4.5
+2024-10-06,"U17","Rouen","COUTURIER Enzo",90,5.5
+2024-10-06,"U17","Rouen","BYLANSA Désiré",60,4.5
+2024-10-06,"U17","Rouen","DEZAILLES Arsène",60,4
+2024-10-06,"U17","Rouen","AINANI Sufyan",90,5.5
+2024-10-06,"U17","Rouen","REUT Nicolas",90,5
+2024-10-06,"U17","Rouen","MALU KELO Yohan",71,4
+2024-10-06,"U17","Rouen","BETEHE Aaron",10,6
+2024-10-06,"U17","Rouen","ESSON Bryan",30,4.5
+2024-10-06,"U17","Rouen","GONSAN Nolan",30,5.5
+2024-10-06,"U17","Rouen","SOH Yanis",19,6
+2024-10-13,"U17","PSG","LEGHAT Yanis",90,6
+2024-10-13,"U17","PSG","BEN CHEIKH Aymen",90,8
+2024-10-13,"U17","PSG","MUREL Solan",85,6.5
+2024-10-13,"U17","PSG","MONKOLOT Yanis",90,6.5
+2024-10-13,"U17","PSG","MEBROUK Ayman",90,7
+2024-10-13,"U17","PSG","COUTURIER Enzo",60,6.5
+2024-10-13,"U17","PSG","MALU KELO Yohan",90,7
+2024-10-13,"U17","PSG","ROUSSEAU Thomas",90,7
+2024-10-13,"U17","PSG","SOH Yanis",90,7
+2024-10-13,"U17","PSG","REUT Nicolas",90,7.5
+2024-10-13,"U17","PSG","ACHOUI Djibril",60,7
+2024-10-13,"U17","PSG","BALAN Mario",32,6
+2024-10-13,"U17","PSG","BYLANSA Désiré",19,5.5
+2024-10-13,"U17","PSG","GONSAN Nolan",32,5.5
+2024-10-13,"U17","PSG","THIAM Tidjani",7,NA
+2024-10-20,"U17","Brétigny","LEGHAT Yanis",92,5
+2024-10-20,"U17","Brétigny","BEN CHEIKH Aymen",92,4
+2024-10-20,"U17","Brétigny","BETEHE Aaron",92,5
+2024-10-20,"U17","Brétigny","SOUMAH Mohamed",92,3
+2024-10-20,"U17","Brétigny","MEBROUK Ayman",92,3.5
+2024-10-20,"U17","Brétigny","COUTURIER Enzo",57,3
+2024-10-20,"U17","Brétigny","MALU KELO Yohan",92,4
+2024-10-20,"U17","Brétigny","ROUSSEAU Thomas",69,3.5
+2024-10-20,"U17","Brétigny","SOH Yanis",57,4.5
+2024-10-20,"U17","Brétigny","REUT Nicolas",90,4.5
+2024-10-20,"U17","Brétigny","ACHOUI Djibril",89,5
+2024-10-20,"U17","Brétigny","AAMCHOUNE Zakaria",3,NA
+2024-10-20,"U17","Brétigny","AINANI Sufyan",35,3.5
+2024-10-20,"U17","Brétigny","DEZAILLES Arsène",23,3.5
+2024-10-20,"U17","Brétigny","THIAM Tidjani",35,5
+2024-11-03,"U17","Mantes","GICQUEL Mathys",93,5.5
+2024-11-03,"U17","Mantes","BEN CHEIKH Aymen",93,6
+2024-11-03,"U17","Mantes","SOUMAHORO Akim",93,6
+2024-11-03,"U17","Mantes","BETEHE Aaron",93,6
+2024-11-03,"U17","Mantes","MEBROUK Ayman",45,5
+2024-11-03,"U17","Mantes","COUTURIER Enzo",45,4.5
+2024-11-03,"U17","Mantes","MALU KELO Yohan",82,5.5
+2024-11-03,"U17","Mantes","ROUSSEAU Thomas",93,6
+2024-11-03,"U17","Mantes","AINANI Sufyan",93,6
+2024-11-03,"U17","Mantes","DEZAILLES Arsène",72,4.5
+2024-11-03,"U17","Mantes","SOH Yanis",93,5.5
+2024-11-03,"U17","Mantes","AAMCHOUNE Zakaria",20,5.5
+2024-11-03,"U17","Mantes","ACHOUI Djibril",10,6
+2024-11-03,"U17","Mantes","BALAN Mario",45,7
+2024-11-03,"U17","Mantes","THIAM Tidjani",45,6.5
+2024-11-10,"U17","Drancy","GICQUEL Mathys",90,6
+2024-11-10,"U17","Drancy","BEN CHEIKH Aymen",34,6.5
+2024-11-10,"U17","Drancy","SOUMAHORO Akim",90,5.5
+2024-11-10,"U17","Drancy","BETEHE Aaron",90,6
+2024-11-10,"U17","Drancy","THIAM Tidjani",90,6.5
+2024-11-10,"U17","Drancy","BALAN Mario",90,7
+2024-11-10,"U17","Drancy","AAMCHOUNE Zakaria",72,5.5
+2024-11-10,"U17","Drancy","ROUSSEAU Thomas",90,5.5
+2024-11-10,"U17","Drancy","AINANI Sufyan",90,5
+2024-11-10,"U17","Drancy","REUT Nicolas",72,5.5
+2024-11-10,"U17","Drancy","SOH Yanis",84,5
+2024-11-10,"U17","Drancy","DEZAILLES Arsène",25,6
+2024-11-10,"U17","Drancy","MALU KELO Yohan",25,4.5
+2024-11-10,"U17","Drancy","MEBROUK Ayman",63,5
+2024-11-10,"U17","Drancy","MENDY Dahiss",13,4.5
+2024-09-21,"Réserve / Espoirs","Mezidon","ARGNEY Paul",90,4
+2024-09-21,"Réserve / Espoirs","Mezidon","TCHICAMBOUD Steed",90,3
+2024-09-21,"Réserve / Espoirs","Mezidon","BODMER Mathéo",90,3
+2024-09-21,"Réserve / Espoirs","Mezidon","CUIRASSIER Mathieu",90,3
+2024-09-21,"Réserve / Espoirs","Mezidon","BUFFARD Matthieu",90,3
+2024-09-21,"Réserve / Espoirs","Mezidon","BARBIER Hugo",90,3
+2024-09-21,"Réserve / Espoirs","Mezidon","BOUNEB Ismaïl",70,2
+2024-09-21,"Réserve / Espoirs","Mezidon","ZOHOURI Guy-Noël",72,3
+2024-09-21,"Réserve / Espoirs","Mezidon","OBOUGOU Noam",90,2
+2024-09-21,"Réserve / Espoirs","Mezidon","QUETANT Kenny",55,2
+2024-09-21,"Réserve / Espoirs","Mezidon","LONDJA Ruben",60,2
+2024-09-21,"Réserve / Espoirs","Mezidon","MOSENGO Daren",36,3
+2024-09-21,"Réserve / Espoirs","Mezidon","KOFFI Enzo",35,2
+2024-09-21,"Réserve / Espoirs","Mezidon","KANA BIYIK Enzo",35,3
+2024-10-06,"Réserve / Espoirs","Equeurdreville","ARGNEY Paul",90,4
+2024-10-06,"Réserve / Espoirs","Equeurdreville","TCHICAMBOUD Steed",75,4
+2024-10-06,"Réserve / Espoirs","Equeurdreville","BODMER Mathéo",90,3
+2024-10-06,"Réserve / Espoirs","Equeurdreville","CUIRASSIER Mathieu",90,4
+2024-10-06,"Réserve / Espoirs","Equeurdreville","BUFFARD Matthieu",90,4
+2024-10-06,"Réserve / Espoirs","Equeurdreville","BARBIER Hugo",90,4
+2024-10-06,"Réserve / Espoirs","Equeurdreville","LUVAMBANO Ethan",70,4
+2024-10-06,"Réserve / Espoirs","Equeurdreville","BAH Thierno",90,4
+2024-10-06,"Réserve / Espoirs","Equeurdreville","QUETANT Kenny",90,4.5
+2024-10-06,"Réserve / Espoirs","Equeurdreville","ZOHOURI Guy-Noël",90,4.5
+2024-10-06,"Réserve / Espoirs","Equeurdreville","BOUNEB Ismaïl",60,3
+2024-10-06,"Réserve / Espoirs","Equeurdreville","LONDJA Ruben",30,2
+2024-10-06,"Réserve / Espoirs","Equeurdreville","SISSOKO Mustapha",15,2
+2024-10-06,"Réserve / Espoirs","Equeurdreville","EL DJEBALI Rayan",30,3
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","TEIXEIRA Alex",90,4
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","TCHICAMBOUD Steed",75,3
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","DIOP Doro",90,3
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","CUIRASSIER Mathieu",90,4
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","BUFFARD Matthieu",90,3
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","BARBIER Hugo",90,3
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","BAMBA Ben",70,4
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","BAH Thierno",90,4
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","QUETANT Kenny",90,3
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","ZOHOURI Guy-Noël",90,4
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","KANA BIYIK Enzo",60,4.5
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","NKOUKA Ethan",30,4
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","KOFFI Enzo",15,4
+2024-10-13,"Réserve / Espoirs","Jeunesse fertoise","EL DJEBALI Rayan",30,4
+2024-11-09,"Réserve / Espoirs","Deauville","ARGNEY Paul",90,4
+2024-11-09,"Réserve / Espoirs","Deauville","NKOUKA Ethan",90,4
+2024-11-09,"Réserve / Espoirs","Deauville","KOFFI Enzo",57,3.5
+2024-11-09,"Réserve / Espoirs","Deauville","CUIRASSIER Mathieu",90,4
+2024-11-09,"Réserve / Espoirs","Deauville","ZAGADOU Stéphan",90,3.5
+2024-11-09,"Réserve / Espoirs","Deauville","BODMER Mathéo",90,3
+2024-11-09,"Réserve / Espoirs","Deauville","MOSENGO Daren",74,3
+2024-11-09,"Réserve / Espoirs","Deauville","BOUNEB Ismaïl",60,3
+2024-11-09,"Réserve / Espoirs","Deauville","BARBIER Hugo",57,3
+2024-11-09,"Réserve / Espoirs","Deauville","KANA BIYIK Enzo",80,4
+2024-11-09,"Réserve / Espoirs","Deauville","NGOURA Steve",90,2.5
+2024-11-09,"Réserve / Espoirs","Deauville","OBOUGOU Noam",10,4
+2024-11-09,"Réserve / Espoirs","Deauville","BUFFARD Matthieu",20,3.5
+2024-11-09,"Réserve / Espoirs","Deauville","ZOHOURI Guy-Noël",35,4
+2024-09-01,"U19 / Gambardella","Dunkerque","TEIXEIRA Alex",90,5
+2024-09-01,"U19 / Gambardella","Dunkerque","SISSOKO Mustapha",90,5
+2024-09-01,"U19 / Gambardella","Dunkerque","TCHICAMBOUD Steed",90,5
+2024-09-01,"U19 / Gambardella","Dunkerque","GOMIS Georges",90,4
+2024-09-01,"U19 / Gambardella","Dunkerque","ZAGADOU Stéphan",90,3
+2024-09-01,"U19 / Gambardella","Dunkerque","BAH Thierno",90,5
+2024-09-01,"U19 / Gambardella","Dunkerque","SIDA Benoît",68,4
+2024-09-01,"U19 / Gambardella","Dunkerque","ASSOUMANI Alramid",90,4
+2024-09-01,"U19 / Gambardella","Dunkerque","OBOUGOU Noam",61,4
+2024-09-01,"U19 / Gambardella","Dunkerque","DIOP Doro",90,5
+2024-09-01,"U19 / Gambardella","Dunkerque","DONGOPANDJI Hakim",77,3
+2024-09-01,"U19 / Gambardella","Dunkerque","MBEMBA Abdellah",25,4
+2024-09-01,"U19 / Gambardella","Dunkerque","LUVAMBANO Ethan",17,3
+2024-09-01,"U19 / Gambardella","Dunkerque","KANA BIYIK Enzo",34,4
+2024-09-22,"U19 / Gambardella","Amiens","TEIXEIRA Alex",90,3
+2024-09-22,"U19 / Gambardella","Amiens","NKOUKA Ethan",90,3
+2024-09-22,"U19 / Gambardella","Amiens","GOMIS Bissenty",90,3
+2024-09-22,"U19 / Gambardella","Amiens","GOMIS Georges",90,4
+2024-09-22,"U19 / Gambardella","Amiens","SISSOKO Mustapha",90,4
+2024-09-22,"U19 / Gambardella","Amiens","BAH Thierno",90,5
+2024-09-22,"U19 / Gambardella","Amiens","LUVAMBANO Ethan",73,5
+2024-09-22,"U19 / Gambardella","Amiens","DIOP Doro",90,3
+2024-09-22,"U19 / Gambardella","Amiens","DONGOPANDJI Hakim",90,5
+2024-09-22,"U19 / Gambardella","Amiens","LOUBANE Yassine",18,NA
+2024-09-22,"U19 / Gambardella","Amiens","MBEMBA Abdellah",60,3
+2024-09-22,"U19 / Gambardella","Amiens","ASSOUMANI Alramid",75,5
+2024-09-22,"U19 / Gambardella","Amiens","SIDA Benoît",35,3
+2024-09-22,"U19 / Gambardella","Amiens","AMADOU Mansour",28,3
+2024-08-25,"U19 / Gambardella","Caen","ARGNEY Paul",90,4
+2024-08-25,"U19 / Gambardella","Caen","TCHICAMBOUD Steed",90,4
+2024-08-25,"U19 / Gambardella","Caen","GOMIS Georges",90,3
+2024-08-25,"U19 / Gambardella","Caen","ZAGADOU Stéphan",60,2
+2024-08-25,"U19 / Gambardella","Caen","ZOHOURI Guy-Noël",58,2
+2024-08-25,"U19 / Gambardella","Caen","SISSOKO Mustapha",60,3
+2024-08-25,"U19 / Gambardella","Caen","MOSENGO Daren",90,4
+2024-08-25,"U19 / Gambardella","Caen","KOFFI Enzo",35,NA
+2024-08-25,"U19 / Gambardella","Caen","OBOUGOU Noam",73,3
+2024-08-25,"U19 / Gambardella","Caen","MBEMBA Abdellah",90,2
+2024-08-25,"U19 / Gambardella","Caen","BOUNEB Ismaïl",73,4
+2024-08-25,"U19 / Gambardella","Caen","BAH Thierno",35,NA
+2024-08-25,"U19 / Gambardella","Caen","LONDJA Ruben",58,1
+2024-08-25,"U19 / Gambardella","Caen","QUETANT Kenny",20,NA
+2024-10-13,"U19 / Gambardella","Chambly","GURI Gabriel",90,5
+2024-10-13,"U19 / Gambardella","Chambly","AZIZ Hayman",90,3
+2024-10-13,"U19 / Gambardella","Chambly","GOMIS Bissenty",90,3
+2024-10-13,"U19 / Gambardella","Chambly","CAUCHY Yllian Harouna",90,4
+2024-10-13,"U19 / Gambardella","Chambly","SOUMAH Mohamed",68,4
+2024-10-13,"U19 / Gambardella","Chambly","IBOKO Malachie",60,4
+2024-10-13,"U19 / Gambardella","Chambly","MBEMBA Abdellah",76,4
+2024-10-13,"U19 / Gambardella","Chambly","LIADE Noah",71,4
+2024-10-13,"U19 / Gambardella","Chambly","DONGOPANDJI Hakim",90,3
+2024-10-13,"U19 / Gambardella","Chambly","ASSOUMANI Alramid",90,5
+2024-10-13,"U19 / Gambardella","Chambly","SIDA Benoît",71,4
+2024-10-13,"U19 / Gambardella","Chambly","AMADOU Mansour",22,4
+2024-10-13,"U19 / Gambardella","Chambly","EL MOUKAOUIL Mohamed",22,4
+2024-10-13,"U19 / Gambardella","Chambly","DEZAILLES Arsène",15,NA
+2024-09-08,"U19 / Gambardella","Marcq","GURI Gabriel",90,5
+2024-09-08,"U19 / Gambardella","Marcq","AZIZ Hayman",76,4
+2024-09-08,"U19 / Gambardella","Marcq","GOMIS Bissenty",90,4
+2024-09-08,"U19 / Gambardella","Marcq","GOMIS Georges",90,4
+2024-09-08,"U19 / Gambardella","Marcq","ZAGADOU Stéphan",75,3
+2024-09-08,"U19 / Gambardella","Marcq","BAH Thierno",90,5
+2024-09-08,"U19 / Gambardella","Marcq","SIDA Benoît",76,5
+2024-09-08,"U19 / Gambardella","Marcq","DONGOPANDJI Hakim",60,5
+2024-09-08,"U19 / Gambardella","Marcq","KANA BIYIK Enzo",52,5
+2024-09-08,"U19 / Gambardella","Marcq","ASSOUMANI Alramid",63,3
+2024-09-08,"U19 / Gambardella","Marcq","LUVAMBANO Ethan",59,4
+2024-09-08,"U19 / Gambardella","Marcq","MBEMBA Abdellah",32,4
+2024-09-08,"U19 / Gambardella","Marcq","AMADOU Mansour",18,3
+2024-09-08,"U19 / Gambardella","Marcq","CAUCHY Yllian Harouna",18,4
+2024-09-08,"U19 / Gambardella","Marcq","ROUSSEAU Thomas",32,4
+2024-10-06,"U19 / Gambardella","Lens","TEIXEIRA Alex",90,4
+2024-10-06,"U19 / Gambardella","Lens","NKOUKA Ethan",90,3
+2024-10-06,"U19 / Gambardella","Lens","GOMIS Bissenty",90,5
+2024-10-06,"U19 / Gambardella","Lens","GOMIS Georges",90,4
+2024-10-06,"U19 / Gambardella","Lens","ZAGADOU Stéphan",90,5
+2024-10-06,"U19 / Gambardella","Lens","IBOKO Malachie",62,4
+2024-10-06,"U19 / Gambardella","Lens","SIDA Benoît",90,4
+2024-10-06,"U19 / Gambardella","Lens","DIOP Doro",90,3
+2024-10-06,"U19 / Gambardella","Lens","KANA BIYIK Enzo",90,4
+2024-10-06,"U19 / Gambardella","Lens","LIADE Noah",79,4
+2024-10-06,"U19 / Gambardella","Lens","DONGOPANDJI Hakim",62,2
+2024-10-06,"U19 / Gambardella","Lens","MBEMBA Abdellah",30,4
+2024-10-06,"U19 / Gambardella","Lens","EL MOUKAOUIL Mohamed",32,2
+2024-10-06,"U19 / Gambardella","Lens","ROUSSEAU Thomas",13,3
+2024-11-03,"U19 / Gambardella","Valenciennes","TEIXEIRA Alex",90,3
+2024-11-03,"U19 / Gambardella","Valenciennes","ASSOUMANI Alramid",90,3
+2024-11-03,"U19 / Gambardella","Valenciennes","GOMIS Bissenty",90,3
+2024-11-03,"U19 / Gambardella","Valenciennes","GOMIS Georges",90,3
+2024-11-03,"U19 / Gambardella","Valenciennes","CAUCHY Yllian Harouna",90,4
+2024-11-03,"U19 / Gambardella","Valenciennes","CAMARA Aboulaye",75,3
+2024-11-03,"U19 / Gambardella","Valenciennes","LUVAMBANO Ethan",45,1
+2024-11-03,"U19 / Gambardella","Valenciennes","BAH Thierno",75,3
+2024-11-03,"U19 / Gambardella","Valenciennes","LONDJA Ruben",69,1
+2024-11-03,"U19 / Gambardella","Valenciennes","LOUBANE Yassine",75,3
+2024-11-03,"U19 / Gambardella","Valenciennes","MBEMBA Abdellah",45,1
+2024-11-03,"U19 / Gambardella","Valenciennes","AMADOU Mansour",25,3
+2024-11-03,"U19 / Gambardella","Valenciennes","DONGOPANDJI Hakim",45,3
+2024-11-03,"U19 / Gambardella","Valenciennes","SIDA Benoît",45,2
+2024-09-15,"U19 / Gambardella","Montfermeil","GURI Gabriel",90,3
+2024-09-15,"U19 / Gambardella","Montfermeil","NKOUKA Ethan",85,4
+2024-09-15,"U19 / Gambardella","Montfermeil","BUFFARD Matthieu",57,2
+2024-09-15,"U19 / Gambardella","Montfermeil","ZAGADOU Stéphan",90,4
+2024-09-15,"U19 / Gambardella","Montfermeil","SISSOKO Mustapha",90,3
+2024-09-15,"U19 / Gambardella","Montfermeil","MOSENGO Daren",90,3
+2024-09-15,"U19 / Gambardella","Montfermeil","KANA BIYIK Enzo",74,3
+2024-09-15,"U19 / Gambardella","Montfermeil","BAH Thierno",60,4
+2024-09-15,"U19 / Gambardella","Montfermeil","QUETANT Kenny",57,2
+2024-09-15,"U19 / Gambardella","Montfermeil","ZOHOURI Guy-Noël",80,4
+2024-09-15,"U19 / Gambardella","Montfermeil","OBOUGOU Noam",90,2
+2024-09-15,"U19 / Gambardella","Montfermeil","DIOP Doro",10,NA
+2024-09-15,"U19 / Gambardella","Montfermeil","DONGOPANDJI Hakim",20,3
+2024-09-15,"U19 / Gambardella","Montfermeil","TCHICAMBOUD Steed",35,3
+2024-09-15,"U19 / Gambardella","Montfermeil","MBEMBA Abdellah",35,4
+2024-10-19,"U19 / Gambardella","PSG","GURI Gabriel",90,4
+2024-10-19,"U19 / Gambardella","PSG","AZIZ Hayman",90,3
+2024-10-19,"U19 / Gambardella","PSG","GOMIS Bissenty",90,3
+2024-10-19,"U19 / Gambardella","PSG","ZAGADOU Stéphan",90,4
+2024-10-19,"U19 / Gambardella","PSG","BAH Thierno",90,4
+2024-10-19,"U19 / Gambardella","PSG","CAMARA Aboulaye",86,3
+2024-10-19,"U19 / Gambardella","PSG","LONDJA Ruben",45,1
+2024-10-19,"U19 / Gambardella","PSG","DIOP Doro",90,3
+2024-10-19,"U19 / Gambardella","PSG","QUETANT Kenny",51,4
+2024-10-19,"U19 / Gambardella","PSG","ASSOUMANI Alramid",60,3
+2024-10-19,"U19 / Gambardella","PSG","SIDA Benoît",45,1
+2024-10-19,"U19 / Gambardella","PSG","IBOKO Malachie",10,NA
+2024-10-19,"U19 / Gambardella","PSG","MBEMBA Abdellah",45,4
+2024-10-19,"U19 / Gambardella","PSG","DONGOPANDJI Hakim",45,3
+2024-10-19,"U19 / Gambardella","PSG","LIADE Noah",40,4
+2024-09-28,"U19 / Gambardella","QRM","GURI Gabriel",90,2
+2024-09-28,"U19 / Gambardella","QRM","NKOUKA Ethan",90,3
+2024-09-28,"U19 / Gambardella","QRM","GOMIS Bissenty",90,4
+2024-09-28,"U19 / Gambardella","QRM","CAUCHY Yllian Harouna",90,4
+2024-09-28,"U19 / Gambardella","QRM","DIOP Doro",90,5
+2024-09-28,"U19 / Gambardella","QRM","AZIZ Hayman",60,2
+2024-09-28,"U19 / Gambardella","QRM","LUVAMBANO Ethan",90,4
+2024-09-28,"U19 / Gambardella","QRM","ROUSSEAU Thomas",73,2
+2024-09-28,"U19 / Gambardella","QRM","KANA BIYIK Enzo",90,3
+2024-09-28,"U19 / Gambardella","QRM","LOUBANE Yassine",45,4
+2024-09-28,"U19 / Gambardella","QRM","MBEMBA Abdellah",58,4
+2024-09-28,"U19 / Gambardella","QRM","DONGOPANDJI Hakim",33,4
+2024-09-28,"U19 / Gambardella","QRM","GOMIS Bissenty",45,4
+2024-09-28,"U19 / Gambardella","QRM","LIADE Noah",20,NA
+2024-11-10,"U19 / Gambardella","Racing CF","TEIXEIRA Alex",90,5
+2024-11-10,"U19 / Gambardella","Racing CF","TCHICAMBOUD Steed",90,5
+2024-11-10,"U19 / Gambardella","Racing CF","GOMIS Bissenty",90,4
+2024-11-10,"U19 / Gambardella","Racing CF","GOMIS Georges",90,5
+2024-11-10,"U19 / Gambardella","Racing CF","CAUCHY Yllian Harouna",90,5
+2024-11-10,"U19 / Gambardella","Racing CF","BAH Thierno",90,5
+2024-11-10,"U19 / Gambardella","Racing CF","DIOP Doro",90,4
+2024-11-10,"U19 / Gambardella","Racing CF","CAMARA Aboulaye",57,4
+2024-11-10,"U19 / Gambardella","Racing CF","AMADOU Mansour",60,4
+2024-11-10,"U19 / Gambardella","Racing CF","LOUBANE Yassine",90,5
+2024-11-10,"U19 / Gambardella","Racing CF","LUVAMBANO Ethan",86,4
+2024-11-10,"U19 / Gambardella","Racing CF","ASSOUMANI Alramid",39,3
+2024-11-10,"U19 / Gambardella","Racing CF","LIADE Noah",9,3
+2024-11-10,"U19 / Gambardella","Racing CF","DONGOPANDJI Hakim",15,3
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","ARGNEY Paul",90,4
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","TCHICAMBOUD Steed",90,3
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","NGUESSAN Jean Baptiste",90,4
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","CUIRASSIER Mathieu",90,4
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","ZAGADOU Stéphan",90,4
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","BODMER Mathéo",90,4
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","KEITA Mohamed",74,2
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","MOSENGO Daren",63,4
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","NGOURA Steve",90,4
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","ZOHOURI Guy-Noël",90,4
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","MENDES VAZ Hernani",58,2
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","KANA BIYIK Enzo",32,NA
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","BAMBA Ben",27,4
+2024-10-26,"Réserve / Espoirs","Saint-Étienne","BARBIER Hugo",16,4
+2024-10-19,"Réserve / Espoirs","Gonfreville","ARGNEY Paul",90,2
+2024-10-19,"Réserve / Espoirs","Gonfreville","NKOUKA Ethan",51,3
+2024-10-19,"Réserve / Espoirs","Gonfreville","MOSENGO Daren",90,2
+2024-10-19,"Réserve / Espoirs","Gonfreville","BODMER Mathéo",90,2
+2024-10-19,"Réserve / Espoirs","Gonfreville","TCHICAMBOUD Steed",90,2
+2024-10-19,"Réserve / Espoirs","Gonfreville","BARBIER Hugo",90,2
+2024-10-19,"Réserve / Espoirs","Gonfreville","LUVAMBANO Ethan",46,2
+2024-10-19,"Réserve / Espoirs","Gonfreville","BOUNEB Ismaïl",51,2
+2024-10-19,"Réserve / Espoirs","Gonfreville","OBOUGOU Noam",90,2
+2024-10-19,"Réserve / Espoirs","Gonfreville","ZOHOURI Guy-Noël",90,2
+2024-10-19,"Réserve / Espoirs","Gonfreville","KANA BIYIK Enzo",60,3
+2024-10-19,"Réserve / Espoirs","Gonfreville","BUFFARD Matthieu",39,2
+2024-10-19,"Réserve / Espoirs","Gonfreville","KOFFI Enzo",45,2
+2024-10-19,"Réserve / Espoirs","Gonfreville","BAMBA Ben",39,2
+2024-11-09,"U15","Evreux","BOUKERROUCHE Soan",80,5.5
+2024-11-09,"U15","Evreux","HASSANI Shahid",80,5.5
+2024-11-09,"U15","Evreux","MENDY Aucala",80,5
+2024-11-09,"U15","Evreux","ESSAMA Brian",80,5.5
+2024-11-09,"U15","Evreux","DEME Daouda",80,6.5
+2024-11-09,"U15","Evreux","CISSÉ Pape Samba",80,6
+2024-11-09,"U15","Evreux","BANGOURA Salifou",65,5
+2024-11-09,"U15","Evreux","NDIONNE Ibrahima",80,5.5
+2024-11-09,"U15","Evreux","AUBIN Nolan",65,4.5
+2024-11-09,"U15","Evreux","DA COSTA Diego",60,4.5
+2024-11-09,"U15","Evreux","MULLER Thais",65,4.5
+2024-11-09,"U15","Evreux","TCHETCHE Prince",30,4
+2024-11-09,"U15","Evreux","HMAMA Hamza",35,4
+2024-11-09,"U15","Evreux","MEBROUK Ayman",35,5
+2024-08-21,"U16","ACBB","BARIDO Jules",90,6
+2024-08-21,"U16","ACBB","SOUMAHORO Akim",90,6
+2024-08-21,"U16","ACBB","RODRIGUES Fabio",90,6
+2024-08-21,"U16","ACBB","MAMHADI Yasser",75,5.5
+2024-08-21,"U16","ACBB","MONKOLOT Yanis",60,6
+2024-08-21,"U16","ACBB","BALAN Mario",70,5.5
+2024-08-21,"U16","ACBB","OUZIAD Djibril",60,5
+2024-08-21,"U16","ACBB","ACHOUI Djibril",45,6
+2024-08-21,"U16","ACBB","ESSON Bryan",70,6
+2024-08-21,"U16","ACBB","DEMBELE Malyk",60,6
+2024-08-21,"U16","ACBB","GENIT Enzo",45,5.5
+2024-08-21,"U16","ACBB","KPOLO Tidiane",30,5
+2024-08-21,"U16","ACBB","LEGOUT Lamine",45,5
+2024-08-21,"U16","ACBB","NEGO Wylan",25,5
+2024-08-21,"U16","ACBB","MENDY Jaden",45,4
+2024-08-21,"U16","ACBB","MOSCATELLI Elio",30,5.5
+2024-08-21,"U16","ACBB","CHALABI Yassine",60,6
+2024-08-24,"U16","Saint-Omer","EVORA DIAS Enzo",45,6
+2024-08-24,"U16","Saint-Omer","OUZIAD Djibril",90,6.5
+2024-08-24,"U16","Saint-Omer","RODRIGUES Fabio",90,5
+2024-08-24,"U16","Saint-Omer","MAMHADI Yasser",90,5.5
+2024-08-24,"U16","Saint-Omer","MENDY Jaden",90,6
+2024-08-24,"U16","Saint-Omer","BALAN Mario",50,5
+2024-08-24,"U16","Saint-Omer","KPOLO Tidiane",45,5
+2024-08-24,"U16","Saint-Omer","ESSON Bryan",60,6
+2024-08-24,"U16","Saint-Omer","MOSCATELLI Elio",60,6
+2024-08-24,"U16","Saint-Omer","CHALABI Yassine",60,6.5
+2024-08-24,"U16","Saint-Omer","LEGOUT Lamine",60,6
+2024-08-24,"U16","Saint-Omer","GENIT Enzo",45,5.5
+2024-08-24,"U16","Saint-Omer","NEGO Wylan",35,4.5
+2024-08-24,"U16","Saint-Omer","SY Abou",45,6
+2024-08-24,"U16","Saint-Omer","AL GHAZAOUI Zayn",45,5
+2024-08-24,"U16","Saint-Omer","BARIDO Jules",45,6
+2024-08-24,"U16","Saint-Omer","BENMAKRELOUF Kwider",45,5.5
+2024-09-01,"U16","Béthune","EVORA DIAS Enzo",45,5.5
+2024-09-01,"U16","Béthune","SOUMAHORO Akim",90,6
+2024-09-01,"U16","Béthune","OUZIAD Djibril",90,6.5
+2024-09-01,"U16","Béthune","MENDY Jaden",90,5.5
+2024-09-01,"U16","Béthune","MAMHADI Yasser",90,5.5
+2024-09-01,"U16","Béthune","BENMAKRELOUF Kwider",45,5
+2024-09-01,"U16","Béthune","CHALABI Yassine",60,6
+2024-09-01,"U16","Béthune","ESSON Bryan",60,4
+2024-09-01,"U16","Béthune","ACHOUI Djibril",60,5
+2024-09-01,"U16","Béthune","BALAN Mario",60,5
+2024-09-01,"U16","Béthune","LEGOUT Lamine",45,5
+2024-09-01,"U16","Béthune","GENIT Enzo",45,5
+2024-09-01,"U16","Béthune","KPOLO Tidiane",45,5.5
+2024-09-01,"U16","Béthune","SY Abou",45,6
+2024-09-01,"U16","Béthune","BARIDO Jules",45,6
+2024-09-01,"U16","Béthune","AL GHAZAOUI Zayn",50,5
+2024-09-01,"U16","Béthune","MOSCATELLI Elio",35,5.5
+2024-11-03,"Réserve / Espoirs","Carentan","ARGNEY Paul",90,4
+2024-11-03,"Réserve / Espoirs","Carentan","NKOUKA Ethan",90,4
+2024-11-03,"Réserve / Espoirs","Carentan","ZAGADOU Stéphan",90,3.5
+2024-11-03,"Réserve / Espoirs","Carentan","CUIRASSIER Mathieu",90,3.5
+2024-11-03,"Réserve / Espoirs","Carentan","BODMER Mathéo",90,4
+2024-11-03,"Réserve / Espoirs","Carentan","BARBIER Hugo",90,4
+2024-11-03,"Réserve / Espoirs","Carentan","BOUNEB Ismaïl",68,3
+2024-11-03,"Réserve / Espoirs","Carentan","MOSENGO Daren",90,3
+2024-11-03,"Réserve / Espoirs","Carentan","KANA BIYIK Enzo",90,4
+2024-11-03,"Réserve / Espoirs","Carentan","ZOHOURI Guy-Noël",51,2.5
+2024-11-03,"Réserve / Espoirs","Carentan","KOFFI Enzo",55,3.5
+2024-11-03,"Réserve / Espoirs","Carentan","EL DJEBALI Rayan",22,3
+2024-11-03,"Réserve / Espoirs","Carentan","BAMBA Ben",38,3
+2024-11-03,"Réserve / Espoirs","Carentan","OBOUGOU Noam",35,4
+2024-09-04,"U16","Mont-Gaillard","BARIDO Jules",90,6
+2024-09-04,"U16","Mont-Gaillard","SOUMAHORO Akim",90,6
+2024-09-04,"U16","Mont-Gaillard","OUZIAD Djibril",75,6
+2024-09-04,"U16","Mont-Gaillard","MENDY Jaden",60,6
+2024-09-04,"U16","Mont-Gaillard","BALAN Mario",75,5
+2024-09-04,"U16","Mont-Gaillard","ESSON Bryan",80,5.5
+2024-09-04,"U16","Mont-Gaillard","ACHOUI Djibril",60,6
+2024-09-04,"U16","Mont-Gaillard","CHALABI Yassine",60,6
+2024-09-04,"U16","Mont-Gaillard","MOSCATELLI Elio",45,5.5
+2024-09-04,"U16","Mont-Gaillard","MAMHADI Yasser",45,5.5
+2024-09-04,"U16","Mont-Gaillard","LEGOUT Lamine",70,5.5
+2024-09-04,"U16","Mont-Gaillard","KPOLO Tidiane",40,5.5
+2024-09-04,"U16","Mont-Gaillard","GENIT Enzo",45,5
+2024-09-04,"U16","Mont-Gaillard","CHOHRA Zakarya",30,5.5
+2024-09-15,"U16","Maladrerie","EVORA DIAS Enzo",92,5
+2024-09-15,"U16","Maladrerie","OUZIAD Djibril",92,6
+2024-09-15,"U16","Maladrerie","CHOHRA Zakarya",92,5
+2024-09-15,"U16","Maladrerie","MAMHADI Yasser",92,5
+2024-09-15,"U16","Maladrerie","MENDY Jaden",92,5.5
+2024-09-15,"U16","Maladrerie","BALAN Mario",92,6.5
+2024-09-15,"U16","Maladrerie","CHALABI Yassine",92,6
+2024-09-15,"U16","Maladrerie","ESSON Bryan",82,5
+2024-09-15,"U16","Maladrerie","ACHOUI Djibril",78,6
+2024-09-15,"U16","Maladrerie","AL GHAZAOUI Zayn",60,5
+2024-09-15,"U16","Maladrerie","SOUMARE Idriss",55,5.5
+2024-09-15,"U16","Maladrerie","KPOLO Tidiane",38,4
+2024-09-15,"U16","Maladrerie","NEGO Wylan",35,3
+2024-09-15,"U16","Maladrerie","MOSCATELLI Elio",40,5.5
+2024-09-07,"U16","Yvetot","EVORA DIAS Enzo",92,4
+2024-09-07,"U16","Yvetot","OUZIAD Djibril",92,7
+2024-09-07,"U16","Yvetot","CHOHRA Zakarya",75,5
+2024-09-07,"U16","Yvetot","MAMHADI Yasser",92,5.5
+2024-09-07,"U16","Yvetot","MENDY Jaden",92,6.5
+2024-09-07,"U16","Yvetot","BALAN Mario",92,6
+2024-09-07,"U16","Yvetot","LEGOUT Lamine",70,7
+2024-09-07,"U16","Yvetot","CHALABI Yassine",85,7
+2024-09-07,"U16","Yvetot","ACHOUI Djibril",75,6
+2024-09-07,"U16","Yvetot","AL GHAZAOUI Zayn",65,6
+2024-09-07,"U16","Yvetot","DEMBELE Malyk",60,6
+2024-09-07,"U16","Yvetot","KPOLO Tidiane",47,4
+2024-09-07,"U16","Yvetot","GENIT Enzo",42,4
+2024-09-07,"U16","Yvetot","SY Abou",42,4
+2024-09-21,"U16","Alençon","BARIDO Jules",92,6.5
+2024-09-21,"U16","Alençon","OUZIAD Djibril",92,6.5
+2024-09-21,"U16","Alençon","CHOHRA Zakarya",92,6
+2024-09-21,"U16","Alençon","MAMHADI Yasser",92,6
+2024-09-21,"U16","Alençon","KAWONDA Nathan",92,6.5
+2024-09-21,"U16","Alençon","BENMAKRELOUF Kwider",65,5
+2024-09-21,"U16","Alençon","MOSCATELLI Elio",60,5.5
+2024-09-21,"U16","Alençon","BALAN Mario",92,6
+2024-09-21,"U16","Alençon","ACHOUI Djibril",80,5
+2024-09-21,"U16","Alençon","CHALABI Yassine",90,6
+2024-09-21,"U16","Alençon","SOUMARE Idriss",80,6.5
+2024-09-21,"U16","Alençon","BENALI Adam",37,6
+2024-09-21,"U16","Alençon","SY Abou",35,5.5
+2024-09-21,"U16","Alençon","KPOLO Tidiane",32,5
+2024-10-05,"U16","Paçy","EVORA DIAS Enzo",93,5.5
+2024-10-05,"U16","Paçy","OUZIAD Djibril",93,5
+2024-10-05,"U16","Paçy","RODRIGUES Fabio",93,5
+2024-10-05,"U16","Paçy","MENDY Jaden",90,5.5
+2024-10-05,"U16","Paçy","KAWONDA Nathan",93,5.5
+2024-10-05,"U16","Paçy","BALAN Mario",93,6
+2024-10-05,"U16","Paçy","SOUMARE Idriss",60,5
+2024-10-05,"U16","Paçy","LEGOUT Lamine",70,5.5
+2024-10-05,"U16","Paçy","ACHOUI Djibril",80,5
+2024-10-05,"U16","Paçy","BENMAKRELOUF Kwider",68,4
+2024-10-05,"U16","Paçy","CHALABI Yassine",86,4
+2024-10-05,"U16","Paçy","MAMHADI Yasser",40,6
+2024-10-05,"U16","Paçy","MOSCATELLI Elio",40,5
+2024-10-05,"U16","Paçy","NEGO Wylan",36,3
+2024-10-09,"U16","Montrouge","CHOHRA Zakarya",75,5
+2024-10-09,"U16","Montrouge","MONKOLOT Yanis",91,6.5
+2024-10-09,"U16","Montrouge","MAMHADI Yasser",65,5.5
+2024-10-09,"U16","Montrouge","KPOLO Tidiane",45,5
+2024-10-09,"U16","Montrouge","BENALI Adam",55,6.5
+2024-10-09,"U16","Montrouge","DEMBELE Malyk",45,4.5
+2024-10-09,"U16","Montrouge","CHALABI Yassine",40,4.5
+2024-10-09,"U16","Montrouge","LEGOUT Lamine",46,6
+2024-10-09,"U16","Montrouge","MENDY Jaden",46,5
+2024-10-09,"U16","Montrouge","MOSCATELLI Elio",46,5
+2024-10-09,"U16","Montrouge","LAUP Nelson",46,5
+2024-10-09,"U16","Montrouge","NEGO Wylan",35,4.5
+2024-10-09,"U16","Montrouge","SY Abou",46,5
+2024-10-09,"U16","Montrouge","BENMAKRELOUF Kwider",40,5.5
+2024-10-09,"U16","Montrouge","LEGHAT Yanis",90,6
+2024-10-09,"U16","Montrouge","THIAM Tidjani",90,6
+2024-10-12,"U16","Saint-Lô","DUBUC Timéo",95,6
+2024-10-12,"U16","Saint-Lô","LAUP Nelson",95,5.5
+2024-10-12,"U16","Saint-Lô","RODRIGUES Fabio",80,4.5
+2024-10-12,"U16","Saint-Lô","KAWONDA Nathan",95,5.5
+2024-10-12,"U16","Saint-Lô","MAMHADI Yasser",95,6
+2024-10-12,"U16","Saint-Lô","BENMAKRELOUF Kwider",95,5.5
+2024-10-12,"U16","Saint-Lô","OUZIAD Djibril",65,4.5
+2024-10-12,"U16","Saint-Lô","ESSON Bryan",75,4
+2024-10-12,"U16","Saint-Lô","LEGOUT Lamine",82,5.5
+2024-10-12,"U16","Saint-Lô","BENALI Adam",80,5
+2024-10-12,"U16","Saint-Lô","SOUMARE Idriss",75,5.5
+2024-10-12,"U16","Saint-Lô","CHALABI Yassine",50,6
+2024-10-12,"U16","Saint-Lô","MOSCATELLI Elio",42,4.5
+2024-10-12,"U16","Saint-Lô","SY Abou",40,5
+2024-11-16,"U16","Tremblay","DUBUC Timéo",92,4.5
+2024-11-16,"U16","Tremblay","SOUMAHORO Akim",92,5
+2024-11-16,"U16","Tremblay","CHOHRA Zakarya",92,5
+2024-11-16,"U16","Tremblay","MAMHADI Yasser",92,6
+2024-11-16,"U16","Tremblay","MONKOLOT Yanis",40,6
+2024-11-16,"U16","Tremblay","BENMAKRELOUF Kwider",92,5.5
+2024-11-16,"U16","Tremblay","NEGO Wylan",70,4
+2024-11-16,"U16","Tremblay","CHALABI Yassine",82,5.5
+2024-11-16,"U16","Tremblay","MOSCATELLI Elio",70,5
+2024-11-16,"U16","Tremblay","BENALI Adam",92,6
+2024-11-16,"U16","Tremblay","DEMBELE Malyk",75,5.5
+2024-11-16,"U16","Tremblay","SY Abou",47,5
+2024-11-16,"U16","Tremblay","KPOLO Tidiane",35,3
+2024-11-16,"U16","Tremblay","MENDY Jaden",52,5.5
+2024-11-02,"U16","Rouen","DUBUC Timéo",92,8
+2024-11-02,"U16","Rouen","OUZIAD Djibril",92,6.5
+2024-11-02,"U16","Rouen","RODRIGUES Fabio",92,6
+2024-11-02,"U16","Rouen","MENDY Jaden",82,6
+2024-11-02,"U16","Rouen","KAWONDA Nathan",70,4.5
+2024-11-02,"U16","Rouen","BENMAKRELOUF Kwider",85,6.5
+2024-11-02,"U16","Rouen","CHALABI Yassine",85,7
+2024-11-02,"U16","Rouen","ESSON Bryan",80,6
+2024-11-02,"U16","Rouen","LEGOUT Lamine",80,5.5
+2024-11-02,"U16","Rouen","BENALI Adam",85,6
+2024-11-02,"U16","Rouen","DEMBELE Malyk",70,5.5
+2024-11-02,"U16","Rouen","AL GHAZAOUI Zayn",40,4.5
+2024-11-02,"U16","Rouen","SOUMARE Idriss",42,6
+2024-11-02,"U16","Rouen","MAMHADI Yasser",38,6
+2024-09-22,"U16","Municipaux","BARIDO Jules",92,7
+2024-09-22,"U16","Municipaux","OUZIAD Djibril",88,6.5
+2024-09-22,"U16","Municipaux","RODRIGUES Fabio",65,6
+2024-09-22,"U16","Municipaux","MENDY Jaden",92,7
+2024-09-22,"U16","Municipaux","KAWONDA Nathan",92,7
+2024-09-22,"U16","Municipaux","BALAN Mario",75,8
+2024-09-22,"U16","Municipaux","SOUMARE Idriss",80,8
+2024-09-22,"U16","Municipaux","BENMAKRELOUF Kwider",75,7
+2024-09-22,"U16","Municipaux","ACHOUI Djibril",68,8
+2024-09-22,"U16","Municipaux","ESSON Bryan",80,7
+2024-09-22,"U16","Municipaux","DEMBELE Malyk",80,5
+2024-09-22,"U16","Municipaux","CHALABI Yassine",47,8
+2024-09-22,"U16","Municipaux","BENALI Adam",47,6.5
+2024-09-22,"U16","Municipaux","LAUP Nelson",47,5.5
+2024-11-09,"U16","ASPTT Caen","BARIDO Jules",93,6.5
+2024-11-09,"U16","ASPTT Caen","OUZIAD Djibril",70,6
+2024-11-09,"U16","ASPTT Caen","RODRIGUES Fabio",93,6
+2024-11-09,"U16","ASPTT Caen","MONKOLOT Yanis",93,7
+2024-11-09,"U16","ASPTT Caen","KAWONDA Nathan",93,5
+2024-11-09,"U16","ASPTT Caen","BENMAKRELOUF Kwider",70,6
+2024-11-09,"U16","ASPTT Caen","SOUMARE Idriss",60,3
+2024-11-09,"U16","ASPTT Caen","ESSON Bryan",80,6.5
+2024-11-09,"U16","ASPTT Caen","ACHOUI Djibril",93,6.5
+2024-11-09,"U16","ASPTT Caen","CHALABI Yassine",85,5.5
+2024-11-09,"U16","ASPTT Caen","DEMBELE Malyk",65,5.5
+2024-11-09,"U16","ASPTT Caen","BENALI Adam",63,7
+2024-11-09,"U16","ASPTT Caen","LAUP Nelson",40,6
+2024-11-09,"U16","ASPTT Caen","MOSCATELLI Elio",30,6
+2024-11-17,"U16","Frileuse","BARIDO Jules",93,5.5
+2024-11-17,"U16","Frileuse","SOUMAHORO Akim",93,6
+2024-11-17,"U16","Frileuse","RODRIGUES Fabio",60,4.5
+2024-11-17,"U16","Frileuse","MENDY Jaden",93,5
+2024-11-17,"U16","Frileuse","MONKOLOT Yanis",93,6.5
+2024-11-17,"U16","Frileuse","BENMAKRELOUF Kwider",60,4.5
+2024-11-17,"U16","Frileuse","CHALABI Yassine",93,5
+2024-11-17,"U16","Frileuse","ESSON Bryan",93,5
+2024-11-17,"U16","Frileuse","MOSCATELLI Elio",55,4
+2024-11-17,"U16","Frileuse","BENALI Adam",93,6.5
+2024-11-17,"U16","Frileuse","LEGOUT Lamine",83,5.5
+2024-11-17,"U16","Frileuse","AL GHAZAOUI Zayn",33,4.5
+2024-11-17,"U16","Frileuse","MAMHADI Yasser",33,5.5
+2024-11-17,"U16","Frileuse","DEMBELE Malyk",38,5.5
+2024-11-17,"U17","Le Mans","LEGHAT Yanis",95,6
+2024-11-17,"U17","Le Mans","OUZIAD Djibril",95,6
+2024-11-17,"U17","Le Mans","BEN CHEIKH Aymen",95,5.5
+2024-11-17,"U17","Le Mans","KAWONDA Nathan",95,6
+2024-11-17,"U17","Le Mans","THIAM Tidjani",95,6.5
+2024-11-17,"U17","Le Mans","BALAN Mario",95,7.5
+2024-11-17,"U17","Le Mans","MALU KELO Yohan",95,4.5
+2024-11-17,"U17","Le Mans","ROUSSEAU Thomas",95,6
+2024-11-17,"U17","Le Mans","SOH Yanis",83,6
+2024-11-17,"U17","Le Mans","REUT Nicolas",83,6.5
+2024-11-17,"U17","Le Mans","AAMCHOUNE Zakaria",72,6
+2024-11-17,"U17","Le Mans","AINANI Sufyan",35,6
+2024-11-17,"U17","Le Mans","DEZAILLES Arsène",22,6
+2024-11-17,"U17","Le Mans","COUTURIER Enzo",11,NA
+2024-11-17,"U17","Le Mans","GONSAN Nolan",11,NA
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","PINEL Guillaume",90,NA
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","NKOUKA Ethan",90,4
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","TCHICAMBOUD Steed",57,4
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","MOSENGO Daren",90,3.5
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","ZAGADOU Stéphan",90,4
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","BARBIER Hugo",90,3
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","KANA BIYIK Enzo",74,4
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","EL DJEBALI Rayan",60,2.5
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","OBOUGOU Noam",57,3
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","BAMBA Ben",80,4
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","KOFFI Enzo",90,4
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","KEITA Mohamed",10,2.5
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","ASSOUMANI Alramid",20,3.5
+2024-11-17,"Réserve / Espoirs","Saint-Lô B","BAH Thierno",35,2.5
+2024-11-16,"U15","Caucriauville","HERASYMOV, Micha",80,5.5
+2024-11-16,"U15","Caucriauville","HASSANI Shahid",80,4
+2024-11-16,"U15","Caucriauville","MENDY Aucala",60,5
+2024-11-16,"U15","Caucriauville","ESSAMA Brian",80,5.5
+2024-11-16,"U15","Caucriauville","DEME Daouda",80,6.5
+2024-11-16,"U15","Caucriauville","CISSÉ Pape Samba",60,6
+2024-11-16,"U15","Caucriauville","BANGOURA Salifou",60,5.5
+2024-11-16,"U15","Caucriauville","MEBROUK Salim",60,5.5
+2024-11-16,"U15","Caucriauville","AUBIN Nolan",60,5
+2024-11-16,"U15","Caucriauville","NDIONNE Ibrahima",60,6
+2024-11-16,"U15","Caucriauville","HMAMA Hamza",80,5
+2024-11-16,"U15","Caucriauville","TCHETCHE Prince",40,5.5
+2024-11-16,"U15","Caucriauville","DA COSTA Diego",40,5
+2024-11-16,"U15","Caucriauville","MULLER Thais",40,5
+2024-11-16,"U19 / Gambardella","Lille","GICQUEL Mathys",90,2
+2024-11-16,"U19 / Gambardella","Lille","BETEHE Aaron",90,4
+2024-11-16,"U19 / Gambardella","Lille","GOMIS Bissenty",90,3
+2024-11-16,"U19 / Gambardella","Lille","GOMIS Georges",43,3
+2024-11-16,"U19 / Gambardella","Lille","SOUMAH Mohamed",65,2
+2024-11-16,"U19 / Gambardella","Lille","IBOKO Malachie",70,3
+2024-11-16,"U19 / Gambardella","Lille","LIADE Noah",80,3
+2024-11-16,"U19 / Gambardella","Lille","DIOP Doro",90,4
+2024-11-16,"U19 / Gambardella","Lille","DONGOPANDJI Hakim",70,4
+2024-11-16,"U19 / Gambardella","Lille","LOUBANE Yassine",80,4
+2024-11-16,"U19 / Gambardella","Lille","LUVAMBANO Ethan",48,2
+2024-11-16,"U19 / Gambardella","Lille","MBEMBA Abdellah",30,4
+2024-11-16,"U19 / Gambardella","Lille","AMADOU Mansour",15,4
+2024-11-16,"U19 / Gambardella","Lille","EL MOUKAOUIL Mohamed",15,3
+2024-11-16,"U19 / Gambardella","Lille","AZIZ Hayman",50,5
+2024-09-07,"U15","Rouen Sapin","THOMAS Nolan",80,5.5
+2024-09-07,"U15","Rouen Sapin","MULLER Thais",40,5.5
+2024-09-07,"U15","Rouen Sapin","MENDY Aucala",65,5.5
+2024-09-07,"U15","Rouen Sapin","HASSANI Shahid",80,5
+2024-09-07,"U15","Rouen Sapin","ESSAMA Brian",80,6
+2024-09-07,"U15","Rouen Sapin","CISSÉ Pape Samba",80,6.5
+2024-09-07,"U15","Rouen Sapin","BANGOURA Salifou",40,6
+2024-09-07,"U15","Rouen Sapin","DAVIDOFF Nathan",40,5
+2024-09-07,"U15","Rouen Sapin","TCHETCHE Prince",65,5
+2024-09-07,"U15","Rouen Sapin","DA COSTA Diego",80,5
+2024-09-07,"U15","Rouen Sapin","DIOP Djibril",65,3.5
+2024-09-07,"U15","Rouen Sapin","HMAMA Hamza",40,5
+2024-09-07,"U15","Rouen Sapin","NDIONNE Ibrahima",30,4.5
+2024-09-07,"U15","Rouen Sapin","MEBROUK Salim",40,5.5
+2024-09-21,"U15","Vernon","DUBUC Timéo",80,NA
+2024-09-21,"U15","Vernon","MENDY Aucala",65,NA
+2024-09-21,"U15","Vernon","DEME Daouda",60,NA
+2024-09-21,"U15","Vernon","HASSANI Shahid",80,NA
+2024-09-21,"U15","Vernon","ESSAMA Brian",80,NA
+2024-09-21,"U15","Vernon","CISSÉ Pape Samba",65,NA
+2024-09-21,"U15","Vernon","NDIONNE Ibrahima",70,NA
+2024-09-21,"U15","Vernon","MEBROUK Salim",60,NA
+2024-09-21,"U15","Vernon","TCHETCHE Prince",65,NA
+2024-09-21,"U15","Vernon","HMAMA Hamza",60,NA
+2024-09-21,"U15","Vernon","MULLER Thais",70,NA
+2024-09-21,"U15","Vernon","AUBIN Nolan",40,NA
+2024-09-21,"U15","Vernon","DIOP Djibril",40,NA
+2024-09-21,"U15","Vernon","BANGOURA Salifou",40,NA
+2024-10-05,"U15","Bois-Guillaume","DUBUC Timéo",80,6
+2024-10-05,"U15","Bois-Guillaume","CISSÉ Pape Samba",80,5.5
+2024-10-05,"U15","Bois-Guillaume","GUENNI Yannis",60,4.5
+2024-10-05,"U15","Bois-Guillaume","HASSANI Shahid",80,4
+2024-10-05,"U15","Bois-Guillaume","ESSAMA Brian",80,4
+2024-10-05,"U15","Bois-Guillaume","MEBROUK Salim",50,4.5
+2024-10-05,"U15","Bois-Guillaume","NDIONNE Ibrahima",50,4
+2024-10-05,"U15","Bois-Guillaume","DAVIDOFF Nathan",70,5
+2024-10-05,"U15","Bois-Guillaume","TCHETCHE Prince",80,6
+2024-10-05,"U15","Bois-Guillaume","DA COSTA Diego",70,7.5
+2024-10-05,"U15","Bois-Guillaume","MULLER Thais",80,5.5
+2024-10-05,"U15","Bois-Guillaume","AUBIN Nolan",50,4.5
+2024-10-05,"U15","Bois-Guillaume","HMAMA Hamza",30,4
+2024-10-05,"U15","Bois-Guillaume","LEITE Lisandro",50,6
+2024-10-12,"U15","Rouen","HERASYMOV Micha",80,5.5
+2024-10-12,"U15","Rouen","MENDY Aucala",80,3.5
+2024-10-12,"U15","Rouen","DEME Daouda",60,4
+2024-10-12,"U15","Rouen","HASSANI Shahid",80,4
+2024-10-12,"U15","Rouen","ESSAMA Brian",80,4
+2024-10-12,"U15","Rouen","CISSÉ Pape Samba",50,5
+2024-10-12,"U15","Rouen","NDIONNE Ibrahima",50,4
+2024-10-12,"U15","Rouen","DAVIDOFF Nathan",70,4.5
+2024-10-12,"U15","Rouen","TCHETCHE Prince",80,3
+2024-10-12,"U15","Rouen","DA COSTA Diego",70,5
+2024-10-12,"U15","Rouen","MULLER Thais",80,5.5
+2024-10-12,"U15","Rouen","AUBIN Nolan",50,4
+2024-10-12,"U15","Rouen","BANGOURA Salifou",30,3.5
+2024-10-12,"U15","Rouen","MEBROUK Salim",50,4
+2024-09-14,"U15","QRM","BOUKERROUCHE Soan",80,7
+2024-09-14,"U15","QRM","MENDY Aucala",70,4.5
+2024-09-14,"U15","QRM","DEME Daouda",80,4
+2024-09-14,"U15","QRM","HASSANI Shahid",80,7
+2024-09-14,"U15","QRM","ESSAMA Brian",80,7
+2024-09-14,"U15","QRM","CISSÉ Pape Samba",80,9
+2024-09-14,"U15","QRM","NDIONNE Ibrahima",70,5.5
+2024-09-14,"U15","QRM","MEBROUK Salim",65,5
+2024-09-14,"U15","QRM","BANGOURA Salifou",65,4
+2024-09-14,"U15","QRM","DAVIDOFF Nathan",80,7
+2024-09-14,"U15","QRM","MULLER Thais",70,6
+2024-09-14,"U15","QRM","DA COSTA Diego",30,3
+2024-09-14,"U15","QRM","TCHETCHE Prince",30,9
+2024-09-14,"U15","QRM","HMAMA Hamza",22,3
+2024-11-24,"U19 / Gambardella","Orléans","TEIXEIRA Alex",90,4
+2024-11-24,"U19 / Gambardella","Orléans","NKOUKA Ethan",28,4
+2024-11-24,"U19 / Gambardella","Orléans","GOMIS Bissenty",90,3
+2024-11-24,"U19 / Gambardella","Orléans","BETEHE Aaron",90,4
+2024-11-24,"U19 / Gambardella","Orléans","TCHICAMBOUD Steed",90,4
+2024-11-24,"U19 / Gambardella","Orléans","BAH Thierno",90,3
+2024-11-24,"U19 / Gambardella","Orléans","SIDA Benoît",62,2
+2024-11-24,"U19 / Gambardella","Orléans","DIOP Doro",79,2
+2024-11-24,"U19 / Gambardella","Orléans","AMADOU Mansour",90,3
+2024-11-24,"U19 / Gambardella","Orléans","LOUBANE Yassine",90,3
+2024-11-24,"U19 / Gambardella","Orléans","MBEMBA Abdellah",90,4
+2024-11-24,"U19 / Gambardella","Orléans","DONGOPANDJI Hakim",30,4
+2024-11-24,"U19 / Gambardella","Orléans","AZIZ Hayman",60,3
+2024-11-24,"U19 / Gambardella","Orléans","AGALEA Nathan",15,NA
+2024-11-23,"U17","Orléans","GICQUEL Mathys",94,5.5
+2024-11-23,"U17","Orléans","BEN CHEIKH Aymen",94,5.5
+2024-11-23,"U17","Orléans","SOUMAHORO Akim",94,5
+2024-11-23,"U17","Orléans","MONKOLOT Yanis",94,4.5
+2024-11-23,"U17","Orléans","THIAM Tidjani",94,6
+2024-11-23,"U17","Orléans","BALAN Mario",94,6
+2024-11-23,"U17","Orléans","ACHOUI Djibril",79,5
+2024-11-23,"U17","Orléans","ROUSSEAU Thomas",50,4
+2024-11-23,"U17","Orléans","AINANI Sufyan",65,4.5
+2024-11-23,"U17","Orléans","DEZAILLES Arsène",65,4.5
+2024-11-23,"U17","Orléans","REUT Nicolas",94,5.5
+2024-11-23,"U17","Orléans","AAMCHOUNE Zakaria",44,4.5
+2024-11-23,"U17","Orléans","MALU KELO Yohan",15,3
+2024-11-23,"U17","Orléans","SOH Yanis",29,4.5
+2024-11-23,"U17","Orléans","WADE Bocar",29,3.5
